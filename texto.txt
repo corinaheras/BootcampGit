@@ -1,3 +1,4 @@
-Nombre: Antonio Rueda
+Nombre: Antonio Ricardo Rueda
 Trabaja: Desarrollador 
 Edad: 30 anios
+Nacionalidad: Ecuatoriano
